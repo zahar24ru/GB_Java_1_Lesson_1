@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="HomeWorkApp" />
+        <module name="GB_Java_1_Lesson_1" />
       </profile>
     </annotationProcessing>
   </component>
